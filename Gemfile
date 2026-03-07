@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.4"
 
-# The al-folio theme core dependencies
+# The complete al-folio plugin suite
 group :jekyll_plugins do
   gem "jekyll-paginate-v2"
   gem "jekyll-sitemap"
@@ -14,5 +14,15 @@ group :jekyll_plugins do
   gem "jekyll-scholar"
   gem "jekyll-toc"
   gem "jekyll-jupyter-notebook"
-  gem "jekyll-3rd-party-libraries" # <-- ADDED THIS LINE TO FIX THE ERROR
+  gem "jekyll-3rd-party-libraries"
+  gem "jekyll-cache-bust"        # Fixes your current error
+  gem "jekyll-email-protect"
+  gem "jekyll-get-json"
+  gem "jekyll-imagemagick"
+  gem "jekyll-link-attributes"
+  gem "jekyll-minifier"
+  gem "jekyll-regex-replace"
+  gem "jekyll-socials"
+  gem "jekyll-tabs"
+  gem "jekyll-terser"
 end
