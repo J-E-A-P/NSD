@@ -1,6 +1,7 @@
 ---
+layout: page
 layout: default
-title: 07_Quick_Review
+title: Quick_Review
 nav: true
 nav_order: 6
 math: true

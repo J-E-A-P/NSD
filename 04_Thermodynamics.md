@@ -1,6 +1,7 @@
 ---
+layout: page
 layout: default
-title: 04_Thermodynamics
+title: Thermodynamics
 nav: true
 nav_order: 4
 math: true

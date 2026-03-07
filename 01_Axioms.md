@@ -1,6 +1,7 @@
 ---
+layout: page
 layout: default
-title: 01_Axioms
+title: Axioms
 nav: true
 nav_order: 1
 math: true

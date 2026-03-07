@@ -1,6 +1,7 @@
 ---
+layout: page
 layout: default
-title: 03_Dynamical_Laws
+title: Dynamical_Laws
 nav: true
 nav_order: 3
 math: true

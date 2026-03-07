@@ -1,6 +1,7 @@
 ---
+layout: page
 layout: default
-title: 02_Definitions
+title: Definitions
 nav: true
 nav_order: 2
 math: true

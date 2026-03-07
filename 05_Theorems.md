@@ -1,6 +1,7 @@
 ---
+layout: page
 layout: default
-title: 05_Theorems
+title: Theorems
 nav: true
 nav_order: 5
 math: true

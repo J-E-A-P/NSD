@@ -1,6 +1,7 @@
 ---
+layout: page
 layout: default
-title: Normative_Stress_Dynamics_Manuscript.md
+title: Normative Stress Dynamics Manuscript
 nav: true
 nav_order: 7
 math: true
