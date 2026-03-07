@@ -5,6 +5,8 @@ nav: true
 nav_order: 3
 math: true
 permalink: /03_Dynamical_Laws.html
+toc:
+  sidebar: left
 ---
 <script>
   MathJax = {

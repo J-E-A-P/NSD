@@ -5,6 +5,8 @@ nav: true
 nav_order: 1
 math: true
 permalink: /01_Axioms.html
+toc:
+  sidebar: left
 ---
 # Axioms of Normative Thermodynamics
 

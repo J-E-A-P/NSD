@@ -5,6 +5,8 @@ nav: true
 nav_order: 7
 math: true
 permalink: /Normative_Stress_Dynamics_Manuscript.html
+toc:
+  sidebar: left
 ---
 <script>
   MathJax = {

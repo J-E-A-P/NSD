@@ -5,6 +5,8 @@ nav: true
 nav_order: 2
 math: true
 permalink: /02_Definitions.html
+toc:
+  sidebar: left
 ---
 <script>
   MathJax = {

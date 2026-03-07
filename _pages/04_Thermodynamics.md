@@ -5,6 +5,8 @@ nav: true
 nav_order: 4
 math: true
 permalink: /04_Thermodynamics.html
+toc:
+  sidebar: left
 ---
 <script>
   MathJax = {

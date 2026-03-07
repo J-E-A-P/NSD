@@ -2,6 +2,8 @@
 layout: page
 title: Normative Stress Dynamics (NSD)
 nav: true
+toc:
+  sidebar: left
 ---
 # Normative Stress Dynamics (NSD)
 
