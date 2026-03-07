@@ -33,6 +33,7 @@ back_to_top: true
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+enable_math: true
 
 # -----------------------------------------------------------------------------
 # Plugins and Exclusions
