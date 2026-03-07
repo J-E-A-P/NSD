@@ -6,6 +6,16 @@ nav_order: 3
 math: true
 permalink: /03_Dynamical_Laws.html
 ---
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$$', '$$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 # The Dynamical Laws of NSD
 
 The core of the theory is a three-equation slow-fast dynamical system governing continuous accumulation, non-linear activation, and structural degradation.

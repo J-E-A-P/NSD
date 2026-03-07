@@ -6,9 +6,18 @@ nav_order: 4
 math: true
 permalink: /04_Thermodynamics.html
 ---
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$$', '$$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 # Thermodynamic Interpretation
-
-
 
 NSD maps structural and stress distributions to statistical mechanical concepts to mathematically evaluate global stability.
 

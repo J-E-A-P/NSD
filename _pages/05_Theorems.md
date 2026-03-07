@@ -6,6 +6,17 @@ nav_order: 5
 math: true
 permalink: /05_Theorems.html
 ---
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$$', '$$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 # Theorems of Systemic Collapse
 
 Based on the dynamical laws and thermodynamic interpretations, NSD establishes four falsifiable theorems governing organizational failure. Let the systemic control parameter be $\rho = \frac{\langle L \rangle}{\langle C \rangle}$.

@@ -6,6 +6,17 @@ nav_order: 6
 math: true
 permalink: /07_Quick_Review.html
 ---
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$$', '$$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 ## 1. Core State Variables
 
 Every node $$i$$ at time $$t$$ is governed by four interacting state variables:
