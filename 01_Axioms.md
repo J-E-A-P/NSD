@@ -1,3 +1,7 @@
+---
+layout: default
+title: 01_Axioms
+---
 # Axioms of Normative Thermodynamics
 
 The NSD framework rests on four foundational axioms regarding the behavior of stress (normative/operational load) in complex sociophysical networks.

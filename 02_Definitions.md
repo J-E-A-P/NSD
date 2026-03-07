@@ -1,3 +1,7 @@
+---
+layout: default
+title: 02_Definitions
+---
 # Glossary of Terms: Normative Stress Dynamics (NSD)
 
 ## 1. Core Theoretical Concepts
@@ -31,8 +35,8 @@ These are the continuously evolving variables that define the state of any indiv
 
 ## 4. Thermodynamic and Mathematical Constructs
 
-* **Systemic Entropy ($H$):** A quantitative measure of the macroscopic disorder and the spatial diffusion pattern of stress across the network. A sudden, violent acceleration in entropy production ($\frac{dH}{dt} \gg 0$) serves as a highly reliable early-warning signal for systemic collapse.
+* **Systemic Entropy ($H$):** A quantitative measure of the macroscopic disorder and the spatial diffusion pattern of stress across the network. A sudden, violent acceleration in entropy production ($rac{dH}{dt} \gg 0$) serves as a highly reliable early-warning signal for systemic collapse.
 * **Normative Free Energy ($\mathcal{F}_{NSD}$):** A heuristic thermodynamic potential acting as a pseudo-Lyapunov function. It measures the absolute mathematical distance a socio-technical system is from critical energy depletion and collapse.
 * **Saddle-Node Burnout Bifurcation:** The catastrophic topological threshold where a node's capacity completely collapses. It proves that burnout is not a gradual decline, but a sudden mathematical state transition where the "Healthy State" equilibrium is annihilated, pulling the node instantly into a near-zero capacity "Burnout State."
-* **Burnout Penalty ($\beta$):** The parameter dictating the exact severity of permanent structural damage/fatigue a node incurs during a stress cascade.
-* **Institutional Adaptation Rate ($\eta$):** The speed at which an organization alters its baseline capacity targets in response to perceived environmental demands (e.g., bureaucratic friction, hiring/firing speeds).
+* **Burnout Penalty ($eta$):** The parameter dictating the exact severity of permanent structural damage/fatigue a node incurs during a stress cascade.
+* **Institutional Adaptation Rate ($ta$):** The speed at which an organization alters its baseline capacity targets in response to perceived environmental demands (e.g., bureaucratic friction, hiring/firing speeds).

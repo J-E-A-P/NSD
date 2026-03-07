@@ -1,3 +1,7 @@
+---
+layout: default
+title: LICENCE
+---
 # PolyForm Noncommercial License 1.0.0
 
 **Copyright (c) 2026 [Your Name/Organization]**
