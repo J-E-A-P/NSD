@@ -214,27 +214,26 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-3rd-party-libraries
-  - jekyll-archives-v2
-  #- jekyll-cache-bust
-  - jekyll-email-protect
+  # - jekyll-3rd-party-libraries
+  # - jekyll-archives-v2
+  # - jekyll-cache-bust
+  # - jekyll-email-protect
   - jekyll-feed
-  - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
-  - jekyll-link-attributes
-  - jekyll-minifier
+  # - jekyll-get-json
+  # - jekyll-imagemagick
+  # - jekyll-jupyter-notebook  <-- The current failing node
+  # - jekyll-link-attributes
+  # - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll-regex-replace
-  - jekyll/scholar
+  # - jekyll-regex-replace
+  # - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-socials
-  - jekyll-tabs
+  # - jekyll-socials
+  # - jekyll-tabs
   #- jekyll-terser
   - jekyll-toc
-  - jekyll-twitter-plugin
+  # - jekyll-twitter-plugin
   - jemoji
-
 
 # Sitemap settings
 defaults:
