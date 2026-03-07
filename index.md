@@ -60,7 +60,8 @@ We are looking for researchers, systems engineers, and "recovering optimizers" t
 * **[Axioms](01_Axioms.html)** - The 4 Laws of Stress.
 * **[Dynamical Laws](03_Dynamical_Laws.html)** - The math behind the madness.
 * **[Theorems](05_Theorems.html)** - Why hubs fail and efficiency kills.
-* **[Enron Case Study](Theorem_3_enron_case_study.html)** - Run the Forensic MRI yourself.
+* **[Manuscript](Normative_Stress_Dynamics_Manuscript.html)
+yourself.
 
 ---
 

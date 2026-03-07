@@ -1,6 +1,9 @@
 ---
-layout: default
 title: MANIFESTO
+layout: page
+nav: true
+nav_order: 8
+math: true
 ---
 # The NSD Manifesto: A Thermodynamic Case Against the Cult of Optimization
 
@@ -23,8 +26,10 @@ Stress is not a "feeling" or a transient anomaly; it is a **quantitative physica
 
 Modern management seeks to minimize "idle" capacity. NSD **Theorem 1** proves this is a fatal error.
 
-* **Efficiency is Fragility**: Systematic minimization of redundant capacity ($C_i 	o S_i$) to achieve peak efficiency artificially drives the systemic control parameter $ho$ toward 1.
-* **The Critical Precipice**: At $ho pprox 1$, the network enters a state of **Self-Organized Criticality (SOC)**. In this state, a single minor perturbation is mathematically guaranteed to trigger a power-law distributed avalanche.
+* **Efficiency is Fragility**: Systematic minimization of redundant capacity ($C_i 	o S_i$) to achieve peak efficiency artificially drives the systemic control parameter $
+ho$ toward 1.
+* **The Critical Precipice**: At $
+ho pprox 1$, the network enters a state of **Self-Organized Criticality (SOC)**. In this state, a single minor perturbation is mathematically guaranteed to trigger a power-law distributed avalanche.
 * **The Cost of Optimization**: A system at "peak efficiency" is a system stripped of its **Normative Free Energy** ($\mathcal{F}_{NSD}$), leaving it with zero resilience against the next exogenous shock.
 
 ### III. Burnout is a Physical Singularity
