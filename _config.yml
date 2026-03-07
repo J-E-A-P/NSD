@@ -46,3 +46,18 @@ exclude:
   - .venv/
   - .github/
   - Gemfile.lock
+
+# -----------------------------------------------------------------------------
+# Collections (Forces Jekyll to read the _pages folder)
+# -----------------------------------------------------------------------------
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
+# -----------------------------------------------------------------------------
+# Theme & SASS (Restores the CSS styling)
+# -----------------------------------------------------------------------------
+sass:
+  sass_dir: _sass
+  style: compressed
