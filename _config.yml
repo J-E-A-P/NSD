@@ -215,11 +215,26 @@ keep_files:
 # Plug-ins
 plugins:
   - jekyll-3rd-party-libraries
-  # - jekyll-imagemagick        <-- Comment these out with #
-  # jekyll/scholar              <-- Comment these out with #
-  # jekyll-jupyter-notebook     <-- Comment these out with #
   - jekyll-archives-v2
-  # ... (keep the rest)
+  - jekyll-cache-bust
+  - jekyll-email-protect
+  - jekyll-feed
+  - jekyll-get-json
+  - jekyll-imagemagick
+  - jekyll-jupyter-notebook
+  - jekyll-link-attributes
+  - jekyll-minifier
+  - jekyll-paginate-v2
+  - jekyll-regex-replace
+  - jekyll/scholar
+  - jekyll-sitemap
+  - jekyll-socials
+  - jekyll-tabs
+  #- jekyll-terser
+  - jekyll-toc
+  - jekyll-twitter-plugin
+  - jemoji
+
 
 # Sitemap settings
 defaults:
