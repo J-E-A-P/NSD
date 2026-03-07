@@ -246,6 +246,8 @@ jekyll-minifier:
 terser:
   compress:
     drop_console: true
+  exclude:
+    - "assets/js/bibsearch.js"
 
 # -----------------------------------------------------------------------------
 # Jekyll Archives
