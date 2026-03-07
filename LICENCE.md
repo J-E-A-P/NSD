@@ -59,4 +59,4 @@ This project (Normative Stress Dynamics - NSD) is dual-licensed.
 ## Commercial Licensing
 If your intended use falls outside the scope of the noncommercial purposes outlined in Section 3, you must obtain a commercial license before using this software. 
 
-**Contact:** [Your Contact Email/Website]
+**Contact:** juho.e.paajanen@icloud.com
