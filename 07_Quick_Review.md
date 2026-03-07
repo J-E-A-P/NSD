@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quick_Review
+title: Quick Review
 nav: true
 nav_order: 6
 math: true

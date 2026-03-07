@@ -1,6 +1,6 @@
 ---
-layout: default
-title: README
+layout: page
+title: Normative Stress Dynamics (NSD)
 ---
 # Normative Stress Dynamics (NSD)
 
@@ -18,9 +18,7 @@ For decades, management theory has been obsessed with "Optimization." We’ve be
 
 Using the mathematics of phase transitions and the forensic data of the **Enron Collapse**, this framework demonstrates that:
 
-* **Efficiency is Fragility:** When you minimize "waste" (redundant capacity), you move the system's control parameter ($
-ho$) toward **1.0**. At $
-ho=1$, a single email or a minor market dip triggers a global "organizational seizure."
+* **Efficiency is Fragility:** When you minimize "waste" (redundant capacity), you move the system's control parameter ($\rho$) toward **1.0**. At $\rho=1$, a single email or a minor market dip triggers a global "organizational seizure."
 * **Burnout is a Bifurcation:** Burnout isn't a gradual decline; it is a **Saddle-Node Bifurcation**. Once a node (a human or a team) crosses the threshold, they are deterministically pulled into a low-capacity attractor. You can't "hustle" your way out of a mathematical singularity.
 * **Stress is Conserved:** You don't "delete" stress by forwarding an email or delegating a task. You **externalize** it. In a tightly coupled network, that stress eventually condenses on hubs (executives/managers), leading to systemic decapitation.
 
@@ -32,10 +30,10 @@ ho=1$, a single email or a minor market dip triggers a global "organizational se
 
 The NSD engine runs on a continuous-time, slow-fast dynamical system:
 
-1. **Stress Evolution:** $dS_i/dt$ tracks how load accumulates and leaks.
+1. **Stress Evolution:** $\frac{dS_i}{dt}$ tracks how load accumulates and leaks.
 2. **Cascade Activation:** $F_i(t)$ defines the "trigger" when stress exceeds capacity.
-3. **Capacity Degradation:** $dC_i/dt$ models "burnout"—the permanent structural damage taken during a crisis.
-4. **Homeostatic Adaptation:** $dC_i^*/dt$ is the "hiring/firing" loop that keeps the system dangerously close to the edge.
+3. **Capacity Degradation:** $\frac{dC_i}{dt}$ models "burnout"—the permanent structural damage taken during a crisis.
+4. **Homeostatic Adaptation:** $\frac{dC_i^*}{dt}$ is the "hiring/firing" loop that keeps the system dangerously close to the edge.
 
 ---
 
@@ -58,11 +56,11 @@ We are looking for researchers, systems engineers, and "recovering optimizers" t
 
 ### Explore the Core Theory
 
-* **[01_Axioms.md](https://www.google.com/search?q=./01_Axioms.md)** - The 4 Laws of Stress.
-* **[03_Dynamical_Laws.md](https://www.google.com/search?q=./03_Dynamical_Laws.md)** - The math behind the madness.
-* **[05_Theorems.md](https://www.google.com/search?q=./05_Theorems.md)** - Why hubs fail and efficiency kills.
-* **[Theorem_3_enron_case_study.ipynb](https://www.google.com/search?q=./Theorem_3_enron_case_study.ipynb)** - Run the Forensic MRI yourself.
+* **[Axioms](01_Axioms.html)** - The 4 Laws of Stress.
+* **[Dynamical Laws](03_Dynamical_Laws.html)** - The math behind the madness.
+* **[Theorems](05_Theorems.html)** - Why hubs fail and efficiency kills.
+* **[Enron Case Study](Theorem_3_enron_case_study.html)** - Run the Forensic MRI yourself.
 
 ---
 
-**License:** [PolyForm Noncommercial 1.0.0](https://www.google.com/search?q=./LICENCE.md). Free for those trying to understand the world. If you want to use this to optimize people even further, you’ll need to pay a heavy "Thermodynamic Tax" (Commercial License).
+**License:** [PolyForm Noncommercial 1.0.0](LICENCE.html). Free for those trying to understand the world. If you want to use this to optimize people even further, you’ll need to pay a heavy "Thermodynamic Tax" (Commercial License).

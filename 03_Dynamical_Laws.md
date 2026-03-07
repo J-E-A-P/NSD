@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamical_Laws
+title: Dynamical Laws
 nav: true
 nav_order: 3
 math: true
