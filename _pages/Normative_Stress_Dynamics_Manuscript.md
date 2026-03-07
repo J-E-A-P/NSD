@@ -6,6 +6,17 @@ nav_order: 7
 math: true
 permalink: /Normative_Stress_Dynamics_Manuscript.html
 ---
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$$', '$$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 # Normative Stress Dynamics: A Unified Thermodynamic and Network-Theoretic Framework for Adaptive-Threshold Self-Organized Criticality
 
 ## 1. Introduction to Systemic Fragility in the Anthropocene
