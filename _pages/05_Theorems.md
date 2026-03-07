@@ -8,16 +8,6 @@ permalink: /05_Theorems.html
 toc:
   sidebar: left
 ---
-<script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$$', '$$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']],
-      processEscapes: true
-    }
-  };
-</script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
 # Theorems of Systemic Collapse
 

@@ -5,16 +5,6 @@ nav: true
 toc:
   sidebar: left
 ---
-<script>
-  MathJax = {
-    tex: {
-      inlineMath: [['$$', '$$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']],
-      processEscapes: true
-    }
-  };
-</script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 # Normative Stress Dynamics (NSD)
 
 ### *The Thermodynamics of Why Systems—and People—Break.*
