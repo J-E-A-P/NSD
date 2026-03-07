@@ -4,6 +4,7 @@ layout: page
 nav: true
 nav_order: 8
 math: true
+permalink: /MANIFESTO.html
 ---
 # The NSD Manifesto: A Thermodynamic Case Against the Cult of Optimization
 

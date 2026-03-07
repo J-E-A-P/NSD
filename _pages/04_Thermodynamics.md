@@ -4,6 +4,7 @@ title: Thermodynamics
 nav: true
 nav_order: 4
 math: true
+permalink: /04_Thermodynamics.html
 ---
 # Thermodynamic Interpretation
 

@@ -4,6 +4,7 @@ title: Theorems
 nav: true
 nav_order: 5
 math: true
+permalink: /05_Theorems.html
 ---
 # Theorems of Systemic Collapse
 

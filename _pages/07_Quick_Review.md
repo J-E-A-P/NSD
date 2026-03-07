@@ -4,6 +4,7 @@ title: Quick Review
 nav: true
 nav_order: 6
 math: true
+permalink: /07_Quick_Review.html
 ---
 ## 1. Core State Variables
 

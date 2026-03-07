@@ -4,6 +4,7 @@ title: Axioms
 nav: true
 nav_order: 1
 math: true
+permalink: /01_Axioms.html
 ---
 # Axioms of Normative Thermodynamics
 

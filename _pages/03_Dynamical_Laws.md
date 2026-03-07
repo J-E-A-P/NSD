@@ -4,6 +4,7 @@ title: Dynamical Laws
 nav: true
 nav_order: 3
 math: true
+permalink: /03_Dynamical_Laws.html
 ---
 # The Dynamical Laws of NSD
 
