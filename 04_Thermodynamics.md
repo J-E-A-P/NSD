@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 04_Thermodynamics
+nav: true
+nav_order: 4
 ---
 # Thermodynamic Interpretation
 
@@ -22,5 +24,6 @@ Collapse is triggered when $\mathcal{F}_{NSD}(t) < \sum S_i(t)$.
 
 ## 3. The Burnout Bifurcation (Saddle-Node Transition)
 Setting $rac{dC_i}{dt} = 0$ reveals the steady-state equilibrium:
-$$\mu(C_i^* - C_i) = eta \kappa \left( S_i - C_i ight) \sigma(a(S_i - C_i))$$
+$$\mu(C_i^* - C_i) = eta \kappa \left( S_i - C_i 
+ight) \sigma(a(S_i - C_i))$$
 As $S_i$ increases, a **saddle-node bifurcation** occurs. The stable high-capacity ("Healthy") equilibrium collides with an unstable intermediate equilibrium and vanishes. The node is deterministically pulled into a degraded, low-capacity attractor ("Burnout", $C_i 	o 0$).

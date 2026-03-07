@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 03_Dynamical_Laws
+nav: true
+nav_order: 3
 ---
 # The Dynamical Laws of NSD
 

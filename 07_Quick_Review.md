@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 07_Quick_Review
+nav: true
+nav_order: 6
 ---
 ## 1. Core State Variables
 
@@ -101,14 +103,16 @@ $$\mathcal{F}_{NSD}(t) = \sum_{i=1}^{N} C_i(t) - 	au H(t)$$
 The time derivative of Free Energy defines absolute Lyapunov bounds:
 
 
-$$rac{d\mathcal{F}_{NSD}}{dt} = \sum_{i=1}^{N} \left[ \mu(C_i^* - C_i(t)) - eta \sum_{k} F_i^{(k)}(t) ight] - 	au rac{dH}{dt}$$
+$$rac{d\mathcal{F}_{NSD}}{dt} = \sum_{i=1}^{N} \left[ \mu(C_i^* - C_i(t)) - eta \sum_{k} F_i^{(k)}(t) 
+ight] - 	au rac{dH}{dt}$$
 
 ### Saddle-Node Burnout Bifurcation
 
 Setting capacity degradation to equilibrium ($rac{dC_i}{dt} = 0$) reveals the deterministic collapse boundary:
 
 
-$$\mu(C_i^* - C_i) = eta \kappa \left( S_i - C_i ight) \sigma(a(S_i - C_i))$$
+$$\mu(C_i^* - C_i) = eta \kappa \left( S_i - C_i 
+ight) \sigma(a(S_i - C_i))$$
 
 ---
 
@@ -119,15 +123,30 @@ $$\mu(C_i^* - C_i) = eta \kappa \left( S_i - C_i ight) \sigma(a(S_i - C_i))$$
 Collapses the $N$-dimensional network to isolate global behavior:
 
 
-$$rac{d\langle S angle}{dt} = \langle L angle - \gamma \langle S angle$$
+$$rac{d\langle S 
+angle}{dt} = \langle L 
+angle - \gamma \langle S 
+angle$$
 
-$$rac{d\langle C angle}{dt} = \mu(\langle C^* angle - \langle C angle) - eta \langle F(\langle S angle, \langle C angle) angle$$
+$$rac{d\langle C 
+angle}{dt} = \mu(\langle C^* 
+angle - \langle C 
+angle) - eta \langle F(\langle S 
+angle, \langle C 
+angle) 
+angle$$
 
-$$rac{d\langle C^* angle}{dt} = ta(A_0 - \langle F angle)$$
+$$rac{d\langle C^* 
+angle}{dt} = ta(A_0 - \langle F 
+angle)$$
 
 ### Key Theoretical Control Parameters
 
-* **Systemic Control Parameter:** $ho = rac{\langle L angle}{\langle C angle}$
-* **Active Branching Ratio:** $b = \langle k angle P_f$
+* **Systemic Control Parameter:** $
+ho = rac{\langle L 
+angle}{\langle C 
+angle}$
+* **Active Branching Ratio:** $b = \langle k 
+angle P_f$
 * **Scale-Free SOC Avalanche Distribution:** $P(s) \sim s^{-lpha}$
 * **Random Graph Failure (Exponential Cutoff):** $P(s) \sim s^{-lpha} e^{-s/s_c}$
