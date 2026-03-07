@@ -3,6 +3,7 @@ layout: default
 title: 01_Axioms
 nav: true
 nav_order: 1
+math: true
 ---
 # Axioms of Normative Thermodynamics
 

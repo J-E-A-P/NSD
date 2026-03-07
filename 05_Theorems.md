@@ -3,6 +3,7 @@ layout: default
 title: 05_Theorems
 nav: true
 nav_order: 5
+math: true
 ---
 # Theorems of Systemic Collapse
 

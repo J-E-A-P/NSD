@@ -3,6 +3,7 @@ layout: default
 title: 07_Quick_Review
 nav: true
 nav_order: 6
+math: true
 ---
 ## 1. Core State Variables
 

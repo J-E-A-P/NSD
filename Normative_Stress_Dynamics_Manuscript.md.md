@@ -3,6 +3,7 @@ layout: default
 title: Normative_Stress_Dynamics_Manuscript.md
 nav: true
 nav_order: 7
+math: true
 ---
 # Normative Stress Dynamics: A Unified Thermodynamic and Network-Theoretic Framework for Adaptive-Threshold Self-Organized Criticality
 
