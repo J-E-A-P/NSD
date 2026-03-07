@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.4"
+gem "jekyll", "~> 4.4.1" # Upgraded from 4.3.4
 
 # The complete al-folio plugin suite
 group :jekyll_plugins do
@@ -15,7 +15,7 @@ group :jekyll_plugins do
   gem "jekyll-toc"
   gem "jekyll-jupyter-notebook"
   gem "jekyll-3rd-party-libraries"
-  gem "jekyll-cache-bust"        # Fixes your current error
+  gem "jekyll-cache-bust"
   gem "jekyll-email-protect"
   gem "jekyll-get-json"
   gem "jekyll-imagemagick"
