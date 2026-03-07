@@ -60,9 +60,7 @@ We are looking for researchers, systems engineers, and "recovering optimizers" t
 * **[Axioms](01_Axioms.html)** - The 4 Laws of Stress.
 * **[Dynamical Laws](03_Dynamical_Laws.html)** - The math behind the madness.
 * **[Theorems](05_Theorems.html)** - Why hubs fail and efficiency kills.
-* **[Manuscript](Normative_Stress_Dynamics_Manuscript.html)
-yourself.
-
+* **[Manuscript](Normative_Stress_Dynamics_Manuscript.html)** - The complete unified framework.
 ---
 
 **License:** [PolyForm Noncommercial 1.0.0](LICENCE.html). Free for those trying to understand the world. If you want to use this to optimize people even further, you’ll need to pay a heavy "Thermodynamic Tax" (Commercial License).
