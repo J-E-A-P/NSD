@@ -1,6 +1,5 @@
 ---
 layout: page
-layout: default
 title: Dynamical_Laws
 nav: true
 nav_order: 3

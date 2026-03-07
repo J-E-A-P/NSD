@@ -1,6 +1,5 @@
 ---
 layout: page
-layout: default
 title: Quick_Review
 nav: true
 nav_order: 6

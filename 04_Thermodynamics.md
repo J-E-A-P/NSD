@@ -1,6 +1,5 @@
 ---
 layout: page
-layout: default
 title: Thermodynamics
 nav: true
 nav_order: 4

@@ -1,6 +1,5 @@
 ---
 layout: page
-layout: default
 title: Normative Stress Dynamics Manuscript
 nav: true
 nav_order: 7

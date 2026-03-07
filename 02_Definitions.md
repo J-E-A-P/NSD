@@ -1,6 +1,5 @@
 ---
 layout: page
-layout: default
 title: Definitions
 nav: true
 nav_order: 2

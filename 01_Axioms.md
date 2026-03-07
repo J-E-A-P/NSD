@@ -1,6 +1,5 @@
 ---
 layout: page
-layout: default
 title: Axioms
 nav: true
 nav_order: 1
