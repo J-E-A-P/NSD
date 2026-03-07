@@ -11,18 +11,15 @@ group :jekyll_plugins do
   gem "jekyll-archives-v2"
   gem "jekyll-twitter-plugin"
   gem "jemoji"
-  gem "jekyll-scholar"
-  gem "jekyll-toc"
-  gem "jekyll-jupyter-notebook"
+  gem "jekyll-toc"          # Vital for Sidenav
   gem "jekyll-3rd-party-libraries"
   gem "jekyll-cache-bust"
   gem "jekyll-email-protect"
-  gem "jekyll-get-json"
-  gem "jekyll-imagemagick"
   gem "jekyll-link-attributes"
   gem "jekyll-minifier"
   gem "jekyll-regex-replace"
   gem "jekyll-socials"
   gem "jekyll-tabs"
   gem "jekyll-terser"
+  # Temporarily removed Scholar and ImageMagick to stop the crash
 end
