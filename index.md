@@ -18,7 +18,9 @@ For decades, management theory has been obsessed with "Optimization." We’ve be
 
 Using the mathematics of phase transitions and the forensic data of the **Enron Collapse**, this framework demonstrates that:
 
-* **Efficiency is Fragility:** When you minimize "waste" (redundant capacity), you move the system's control parameter ($ho$) toward **1.0**. At $ho=1$, a single email or a minor market dip triggers a global "organizational seizure."
+* **Efficiency is Fragility:** When you minimize "waste" (redundant capacity), you move the system's control parameter ($
+ho$) toward **1.0**. At $
+ho=1$, a single email or a minor market dip triggers a global "organizational seizure."
 * **Burnout is a Bifurcation:** Burnout isn't a gradual decline; it is a **Saddle-Node Bifurcation**. Once a node (a human or a team) crosses the threshold, they are deterministically pulled into a low-capacity attractor. You can't "hustle" your way out of a mathematical singularity.
 * **Stress is Conserved:** You don't "delete" stress by forwarding an email or delegating a task. You **externalize** it. In a tightly coupled network, that stress eventually condenses on hubs (executives/managers), leading to systemic decapitation.
 
@@ -64,7 +66,3 @@ We are looking for researchers, systems engineers, and "recovering optimizers" t
 ---
 
 **License:** [PolyForm Noncommercial 1.0.0](https://www.google.com/search?q=./LICENCE.md). Free for those trying to understand the world. If you want to use this to optimize people even further, you’ll need to pay a heavy "Thermodynamic Tax" (Commercial License).
-
----
-
-**Would you like me to generate a specific "Manifesto" document to go along with this, or perhaps a more technical 'Usage' section for the Python code?**
