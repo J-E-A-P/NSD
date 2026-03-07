@@ -1,7 +1,7 @@
 name: Deploy NSD Documentation
 on:
   push:
-    branches: ["master"] # Triggers when you push to master
+    branches: ["master"]
 permissions:
   contents: read
   pages: write
@@ -10,7 +10,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps: deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }} # <-- The colon here is now a period!
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,7 +20,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.' # Deploys your root folder containing the .md files
+          path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
