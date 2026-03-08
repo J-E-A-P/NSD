@@ -8,6 +8,11 @@ Normative Stress Dynamics (NSD) is a continuous-time, multiplex dynamical framew
 
 The framework mathematically proves that highly optimized, tightly coupled networks do not fail gradually. In the relentless pursuit of maximum operational efficiency, these systems actively self-organize toward critical thresholds, ensuring that collapse manifests as a sudden, power-law distributed topological phase transition.
 
+## 🌐 Project Website
+
+Detailed documentation, and the full manuscript are available at:
+https://j-e-a-p.github.io/NSD/
+
 ## 📚 Repository Structure
 
 This repository contains both the formal mathematical manuscripts and the empirical Python implementations of the theory.
