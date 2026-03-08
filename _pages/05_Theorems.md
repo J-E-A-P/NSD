@@ -25,4 +25,4 @@ In scale-free (Barabási–Albert) multiplex topologies, propagated stress conde
 
 ## Theorem 4: Hub-Induced Hysteresis
 
-Due to the non-linear saddle-node bifurcation governing capacity degradation, organizational collapse is irreversible via symmetrical load reduction. Recovering a collapsed network requires an asymmetric, deep reduction in exogenous load ($\rho \ll 1$$) for an extended duration to allow the institutional recovery rate ($$\mu$$) to overcome the hysteresis deficit.
+Due to the non-linear saddle-node bifurcation governing capacity degradation, organizational collapse is irreversible via symmetrical load reduction. Recovering a collapsed network requires an asymmetric, deep reduction in exogenous load ($\rho \ll 1$) for an extended duration to allow the institutional recovery rate ($\mu$) to overcome the hysteresis deficit.
