@@ -2,7 +2,7 @@
 title: MANIFESTO
 layout: page
 nav: true
-nav_order: 8
+nav_order: 9
 math: true
 permalink: /MANIFESTO.html
 toc:
