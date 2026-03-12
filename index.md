@@ -63,7 +63,7 @@ We are looking for researchers, systems engineers, and "recovering optimizers" t
 * **[Dynamical Laws](03_Dynamical_Laws.html)** - The math behind the madness.
 * **[Theorems](05_Theorems.html)** - Why hubs fail and efficiency kills.
 * **[Manuscript](Normative_Stress_Dynamics_Manuscript.html)** - The complete unified framework.
-* **[Launch the NSD Systemic Risk Terminal](https://nsdinflation-zapkbxfmclpvrv9plplw2t.streamlit.app/)** An interactive implementation of the NSD framework applied to global macroeconomics. Features dual-architecture calibration (20-year structural vs. 10-year dynamic) and forward-looking policy stress testing.
+* **[Launch the NSD Systemic Risk Terminal](https://nsdinflation-zapkbxfmclpvrv9plplw2t.streamlit.app/)** - An interactive implementation of the NSD framework applied to global macroeconomics. Features dual-architecture calibration (20-year structural vs. 10-year dynamic) and forward-looking policy stress testing.
 ---
 
 **License:** [PolyForm Noncommercial 1.0.0](LICENCE.html). Free for those trying to understand the world. If you want to use this to optimize people even further, you’ll need to pay a heavy "Thermodynamic Tax" (Commercial License).
