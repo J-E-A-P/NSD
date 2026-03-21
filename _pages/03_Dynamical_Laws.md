@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dynamical Laws
+title: The Dynamical Laws of NSD
 nav: true
 nav_order: 3
 math: true
@@ -8,7 +8,6 @@ permalink: /03_Dynamical_Laws.html
 toc:
   sidebar: left
 ---
-# The Dynamical Laws of NSD
 
 The core of the theory is a three-equation slow-fast dynamical system governing continuous accumulation, non-linear activation, and structural degradation.
 

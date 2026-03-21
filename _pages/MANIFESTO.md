@@ -1,5 +1,5 @@
 ---
-title: MANIFESTO
+title: The NSD Manifesto: A Thermodynamic Case Against the Cult of Optimization
 layout: page
 nav: true
 nav_order: 9
@@ -8,7 +8,6 @@ permalink: /MANIFESTO.html
 toc:
   sidebar: left
 ---
-# The NSD Manifesto: A Thermodynamic Case Against the Cult of Optimization
 
 We have been lied to by the architects of the modern workplace. We have been told that "redundancy" is waste, that "100% utilization" is the goal, and that "grit" is the solution to exhaustion.
 

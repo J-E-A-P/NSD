@@ -8,7 +8,6 @@ permalink: /NSD_Standard.html
 toc:
   sidebar: left
 ---
-# NSD Standard™: Methodological Framework for Structural Risk Indexing
 
 **Version:** 1.1 (Enhanced Institutional Draft)
 **Classification:** Public / Client-Facing

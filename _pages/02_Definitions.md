@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Definitions
+title: Glossary of Terms: Normative Stress Dynamics (NSD)
 nav: true
 nav_order: 2
 math: true
@@ -8,7 +8,6 @@ permalink: /02_Definitions.html
 toc:
   sidebar: left
 ---
-# Glossary of Terms: Normative Stress Dynamics (NSD)
 
 ## 1. Core Theoretical Concepts
 

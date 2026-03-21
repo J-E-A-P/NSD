@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theorems
+title: Theorems of Systemic Collapse
 nav: true
 nav_order: 5
 math: true
@@ -8,8 +8,6 @@ permalink: /05_Theorems.html
 toc:
   sidebar: left
 ---
-
-# Theorems of Systemic Collapse
 
 Based on the dynamical laws and thermodynamic interpretations, NSD establishes four falsifiable theorems governing organizational failure. Let the systemic control parameter be $\rho = \frac{\langle L \rangle}{\langle C \rangle}$.
 

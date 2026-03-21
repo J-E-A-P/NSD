@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thermodynamics
+title: Thermodynamic Interpretation
 nav: true
 nav_order: 4
 math: true
@@ -8,7 +8,6 @@ permalink: /04_Thermodynamics.html
 toc:
   sidebar: left
 ---
-# Thermodynamic Interpretation
 
 NSD maps structural and stress distributions to statistical mechanical concepts to mathematically evaluate global stability.
 
