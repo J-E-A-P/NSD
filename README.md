@@ -9,7 +9,7 @@ Normative Stress Dynamics (NSD) is a continuous-time, multiplex dynamical framew
 The framework mathematically proves that highly optimized, tightly coupled networks do not fail gradually. In the relentless pursuit of maximum operational efficiency, these systems actively self-organize toward critical thresholds, ensuring that collapse manifests as a sudden, power-law distributed topological phase transition.
 
 🚀 Live Interactive Terminal
-[Launch the NSD Systemic Risk Terminal](https://nsdinflation-zapkbxfmclpvrv9plplw2t.streamlit.app/) An interactive implementation of the NSD framework applied to global macroeconomics. Features dual-architecture calibration (20-year structural vs. 10-year dynamic) and forward-looking policy stress testing.
+[Launch the NSD Systemic Risk Terminal](https://nsdstrategicintelligence.streamlit.app/) An interactive implementation of the NSD framework applied to global macroeconomics. Features dual-architecture calibration (20-year structural vs. 10-year dynamic) and forward-looking policy stress testing.
 
 ## 🌐 Project Website
 
