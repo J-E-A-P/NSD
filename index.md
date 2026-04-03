@@ -6,8 +6,6 @@ toc:
   sidebar: left
 ---
 
-# Normative Stress Dynamics (NSD)
-
 **The Thermodynamics of Why Systems—and People—Break.**
 
 **Normative Stress Dynamics (NSD)** is a unified mathematical framework that treats systemic stress as a physical quantity. By bridging the gap between **Self-Organized Criticality (SOC)** and organizational behavior, NSD proves an uncomfortable truth: **Hyper-efficiency is a thermodynamic suicide pact.**
