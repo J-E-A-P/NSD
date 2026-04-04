@@ -1,10 +1,10 @@
 ---
-title: The NSD Inflation Report: Measuring Asymmetric Risk and Opportunity in the New Macroeconomic State-Space
+title: "The NSD Inflation Report: Measuring Asymmetric Risk and Opportunity in the New Macroeconomic State-Space"
 layout: page
 nav: true
 nav_order: 12
 math: true
-permalink: /NSD_Standard.html
+permalink: /Inflation_Report.html
 toc:
   sidebar: left
 ---

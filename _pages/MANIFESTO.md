@@ -1,5 +1,5 @@
 ---
-title: The NSD Manifesto: A Thermodynamic Case Against the Cult of Optimization
+title: "The NSD Manifesto: A Thermodynamic Case Against the Cult of Optimization"
 layout: page
 nav: true
 nav_order: 9

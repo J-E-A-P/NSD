@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Normative Stress Dynamics: A Unified Thermodynamic and Network-Theoretic Framework for Adaptive-Threshold Self-Organized Criticality
+title: "Normative Stress Dynamics: A Unified Thermodynamic and Network-Theoretic Framework for Adaptive-Threshold Self-Organized Criticality"
 nav: true
 nav_order: 7
 math: true
@@ -8,6 +8,7 @@ permalink: /Normative_Stress_Dynamics_Manuscript.html
 toc:
   sidebar: left
 ---
+
 ## 1. Introduction to Systemic Fragility in the Anthropocene
 
 The architecture of the modern globalized environment is defined by tightly coupled, hyper-efficient, and dynamically interacting networks [1]. These complex socio-technical systems—ranging from just-in-time global supply chains and lean corporate hierarchies to interdependent ecological networks and macroeconomic financial markets—are engineered to maximize throughput while systematically minimizing idle capacity. In the pursuit of optimized performance and exergy efficiency, these structures frequently develop a paradoxical vulnerability: they demonstrate remarkable robustness to routine, low-amplitude perturbations but remain highly susceptible to catastrophic, system-wide cascading failures triggered by seemingly localized shocks [2, cite: 06_Theory.md]. Humans have made profound changes to the Earth, and the resulting societal challenges of the Anthropocene, including climate change impacts, renewable energy transitions, adaptive infrastructure failures, and biodiversity loss, are inherently complex and systemic. These interacting crises possess causes and consequences that do not remain localized; rather, they cascade violently across a globally connected system of systems.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glossary of Terms: Normative Stress Dynamics (NSD)
+title: "Glossary of Terms: Normative Stress Dynamics (NSD)"
 nav: true
 nav_order: 2
 math: true
